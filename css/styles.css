@@ -17,3 +17,12 @@ h1{
 h3 {
     color: #66bfbf;
 }
+
+
+img:hover {
+    background-color: gold;
+}
+img{
+    background-color: red;
+    border-radius: 100%;
+}
